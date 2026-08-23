@@ -1,0 +1,4 @@
+Mau bikin
+  - Latihan HTML
+  - Latihan CSS
+  - Latihan JS
