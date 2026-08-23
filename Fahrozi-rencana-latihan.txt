@@ -1,7 +1,7 @@
 Mau bikin
   - Latihan HTML dan CSS
     - modifikasi Latihan - Latihan dari WPU
-  - Latihan JS
     - Latihan - Latihan sendiri
-      - Company Profile
-      - Personal CV
+  - Latihan HTML, CSS, dan JS
+    - Company Profile
+    - Personal CV
