@@ -2,5 +2,6 @@ Mau bikin
   - Latihan HTML dan CSS
     - modifikasi Latihan - Latihan dari WPU
     - Latihan - Latihan sendiri
-      - Landing Page
+      - Company Profile
+      - Personal CV
   - Latihan JS
